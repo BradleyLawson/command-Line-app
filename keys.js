@@ -12,5 +12,3 @@ exports.spotify = {
   secret: process.env.SPOTIFY_SECRET
 };
 
-//spotify id = a0723772ed914ade86a99c9f90253332
-//spotify secret = 79b0477622d745688deb526d366f0c87
