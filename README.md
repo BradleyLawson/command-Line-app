@@ -37,12 +37,12 @@ CLI - APP is a Command Line APP that uses the [Spotify](https://www.spotify.com/
 
 * Create a .env file and add your Twitter and Spotify API keys in this file as follows:
 
-&nbsp;&nbsp;&nbsp;*SPOTIFY_ID=<YourSpotify_ID>
-&nbsp;&nbsp;&nbsp;*SPOTIFY_SECRET=(YourSpotify_Secret)
-&nbsp;&nbsp;&nbsp;*TWITTER_CONSUMER_KEY=<YourTwitter_Consumer_Key>
-&nbsp;&nbsp;&nbsp;*TWITTER_CONSUMER_SECRET=<YourTwitter_Consumer_Secret>
-&nbsp;&nbsp;&nbsp;*TWITTER_ACCESS_TOKEN_KEY=<YourTwitterAccess_Token_Key>
-&nbsp;&nbsp;&nbsp;*TWITTER_ACCESS_TOKEN_SECRET=<YourTwitter_Access_Token_Secret>
+* &nbsp;&nbsp;&nbsp;SPOTIFY_ID=<YourSpotify_ID>
+* &nbsp;&nbsp;&nbsp;SPOTIFY_SECRET=<YourSpotify_Secret>
+* &nbsp;&nbsp;&nbsp;TWITTER_CONSUMER_KEY=<YourTwitter_Consumer_Key>
+* &nbsp;&nbsp;&nbsp;TWITTER_CONSUMER_SECRET=<YourTwitter_Consumer_Secret>
+* &nbsp;&nbsp;&nbsp;TWITTER_ACCESS_TOKEN_KEY=<YourTwitterAccess_Token_Key>
+* &nbsp;&nbsp;&nbsp;TWITTER_ACCESS_TOKEN_SECRET=<YourTwitter_Access_Token_Secret>
 
 
 ## Author
